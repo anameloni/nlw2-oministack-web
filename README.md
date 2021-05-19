@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online. Esse projeto foi desenvolvido como caso de uso do curso de React da Rocketseat duranto o NLW#2
+O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online. 
 
 ## :memo: Licença
 
